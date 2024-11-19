@@ -2,7 +2,7 @@
 
 > **Absolute pitch** (**AP**), often called **perfect pitch**, is the ability to identify or re-create a given musical note without the benefit of a reference tone.
 
-This project is a perfect pitch trainer, fully written in Assembly. It plays a note, lets the user guess its keyboard key, and provides feedback on correctness, repeating in a loop.
+A perfect pitch trainer, fully written in Assembly. It plays a note, lets the user guess its keyboard key, and provides feedback on correctness, repeating in a loop.
 It looks like this:
 
 <img src="Pictures/RGb.bmp" alt="J" width="200"/>
